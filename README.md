@@ -16,7 +16,7 @@ Credit for the problem you will be solving goes to [Project Euler](https://proje
 1. Fork the repo at (https://github.com/BravoLT/codeartprize2017.git).
 2. Develop a solution that works but looks good too!
 3. Update the README.md with instructions for running your code.
-4. Submit a PR around 3PM on Wednesday May 17, 2017 of the Grand Rapids Goole I/O 2017 Extended event.
+4. Submit a PR by 3PM on Wednesday May 17, 2017 of the Grand Rapids Goole I/O 2017 Extended event.
 5. Bravo LT staff will validate that your code works.
 6. We will have voting to determine, of the code that works, which solutions inspire other attendees the most.
 
