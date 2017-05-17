@@ -23,3 +23,8 @@ Credit for the problem you will be solving goes to [Project Euler](https://proje
 ## Instructions For Running This Project
 > !!! Your instructions here !!!
 
+Install
+`npm install number-to-words`
+
+Run
+`node index.js`
