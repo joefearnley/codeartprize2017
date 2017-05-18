@@ -14,6 +14,7 @@ const numberLettercounts = (number) => {
             words.splice(2, 0, 'and');
         }
 
+        // join the array to make a string, remove the hyphen, and get length
         total += words.join('').replace('-', '').length;
     }
 
